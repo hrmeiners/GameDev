@@ -1,2 +1,2 @@
 # GameDev
-Projects described in the book Hands-on Rust Effective Learning through 2D Game Development and Play by Herbert Wolverson
+All game development projects I have or am currently working on. I am aiming to make a browser-based multiplayer game in Rust!
