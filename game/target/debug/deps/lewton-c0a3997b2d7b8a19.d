@@ -1,0 +1,13 @@
+C:\Users\hrmei\coursework\personal\GameDev\game\target\debug\deps\lewton-c0a3997b2d7b8a19.rmeta: C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\lib.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\header.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\header_cached.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\huffman_tree.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\imdct.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\audio.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\bitpacking.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\inside_ogg.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\samples.rs
+
+C:\Users\hrmei\coursework\personal\GameDev\game\target\debug\deps\lewton-c0a3997b2d7b8a19.d: C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\lib.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\header.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\header_cached.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\huffman_tree.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\imdct.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\audio.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\bitpacking.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\inside_ogg.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\samples.rs
+
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\lib.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\header.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\header_cached.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\huffman_tree.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\imdct.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\audio.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\bitpacking.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\inside_ogg.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.9.4\src\samples.rs:

@@ -1,0 +1,10 @@
+C:\Users\hrmei\coursework\personal\GameDev\game\target\debug\deps\bracket_embedding-ded2a7a84b7409c5.rmeta: C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\lib.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\embedding.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/terminal8x8.png C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/vga8x16.png
+
+C:\Users\hrmei\coursework\personal\GameDev\game\target\debug\deps\libbracket_embedding-ded2a7a84b7409c5.rlib: C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\lib.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\embedding.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/terminal8x8.png C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/vga8x16.png
+
+C:\Users\hrmei\coursework\personal\GameDev\game\target\debug\deps\bracket_embedding-ded2a7a84b7409c5.d: C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\lib.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\embedding.rs C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/terminal8x8.png C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/vga8x16.png
+
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\lib.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\embedding.rs:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/terminal8x8.png:
+C:\Users\hrmei\.cargo\registry\src\github.com-1ecc6299db9ec823\bracket-embedding-0.8.7\src\../resources/vga8x16.png:
