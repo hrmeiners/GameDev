@@ -1,0 +1,5 @@
+This project was created by following the tutorial in Herbert Wolverson's book "Hands-On Rust: Effective Learning through 2D Game Development and Play".
+
+This is a barebones copy of Flappy Bird written in the Rust programming language. My eventual goal is to create an online multiplayer game in Rust.
+This program implemented a simple state machine for controlling the player using enums and structs, before which I had barely touched.
+Though I don't fully understand the scope of the bracket library that was used to display the game, I understood the code fairly well.
