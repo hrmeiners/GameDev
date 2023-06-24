@@ -1,1 +1,8 @@
 https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html
+
+This was the final project in the rust lang book: creating a web server. Following along with the tutorial, I created a single-threaded web server that I used to display an HTML file to my web browser.
+Then, I turned it into a multi-threaded web server using a library I created to create a "ThreadPool", or a Vector of threads that would automatically shut down when out of scope.
+After that, I made the web server only accept two requests before shutting down, as I had to test the shutdown.
+
+Overall, it was a good project and reinforced some topics that I learned in my CSCI 2510 Computer Organization and Systems class at Saint Louis University.
+I plan on using the ideas in this tutorial and project to create a multiplayer browser game that will run off of a web server like this.
