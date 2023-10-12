@@ -1,0 +1,8 @@
+C:\Users\perso\Documents\Programming\GameDev\flappy_dragon\target\debug\deps\bracket_algorithm_traits-af7b1c0b96a17770.rmeta: C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\lib.rs C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\algorithm2d.rs C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\algorithm3d.rs C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\basemap.rs
+
+C:\Users\perso\Documents\Programming\GameDev\flappy_dragon\target\debug\deps\bracket_algorithm_traits-af7b1c0b96a17770.d: C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\lib.rs C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\algorithm2d.rs C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\algorithm3d.rs C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\basemap.rs
+
+C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\lib.rs:
+C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\algorithm2d.rs:
+C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\algorithm3d.rs:
+C:\Users\perso\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bracket-algorithm-traits-0.8.7\src\basemap.rs:
